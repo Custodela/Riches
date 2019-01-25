@@ -91,5 +91,6 @@ Make sure it looks approximately the same
 **NOTE, this doesn't seem to work for weblogic 9.2, so deploy via the admin console
 Riches will be deployed and you can browse to it at:
 
+
 http://localhost:7001/riches
    
