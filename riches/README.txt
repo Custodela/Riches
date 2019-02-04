@@ -51,7 +51,9 @@ run 'ant tomcat5.5' to build the app instead of just 'ant'
 
 JBoss 4 Support
 
-JBOSS_SERVER_DIR is the jboss/server/default (unless you changed the configuration, in which case
+JBOSS_SERVER_DIR is the jboss/server/default (unless you changed the configurati
+
+on, in which case
 you should know what this directory is supposed to be)
 
 
