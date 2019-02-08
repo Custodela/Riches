@@ -30,7 +30,6 @@
     <property name="tomcat5.5.dir" location="${basedir}/etc/tomcat5.5-support"/>
     <property name="jboss4.dir" location="${basedir}/etc/jboss4-support"/>
 
-
     <taskdef resource="net/sf/antcontrib/antlib.xml" classpath="../tools/ant-contrib.jar"/>
 
     <path id="javac.classpath">
