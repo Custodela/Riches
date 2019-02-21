@@ -9,6 +9,7 @@
     <Realm className="org.apache.catalina.realm.DataSourceRealm" debug="99"
         localDataSource="true" dataSourceName="jdbc/riches"
         userTable="profile" userNameCol="username" userCredCol="password"
+	   
         userRoleTable="role" roleNameCol="rolename"/>
 
     <Resource name="jdbc/riches" auth="Container" type="javax.sql.DataSource"/>
