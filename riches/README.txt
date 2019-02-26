@@ -33,6 +33,7 @@ follow the "building and runnig the application" instructions to deploy a fresh 
 run ${TOMCAT_HOME}/bin/startup
 
 
+
 ## STOPPING TOMCAT ##
 run ${TOMCAT_HOME}/bin/shutdown
 
