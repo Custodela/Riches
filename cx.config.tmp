@@ -2,7 +2,7 @@
   "version": 1.0,
   "active": true,
   "sast": {
-    "preset": "Checkmarx Default",
+    "preset": "Checkmarx Express",
     "incremental": true
   },
   "additionalProperties" : {
