@@ -52,7 +52,7 @@
                 -->
             <parameter>
                 <name>maxIdle</name>
-                <value>30</value>
+                <value>35</value>
             </parameter>
             <!-- Maximum time to wait for a dB connection to become available
                 in ms, in this example 10 seconds. An Exception is thrown if
