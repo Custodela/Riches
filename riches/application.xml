@@ -3,7 +3,7 @@
 	"http://java.sun.com/dtd/application_1_3.dtd">
 
 <application>
-    <display-name>riches</display-name>
+    <display-name>riches2</display-name>
     <module>
         <web>
             <web-uri>riches.war</web-uri>
