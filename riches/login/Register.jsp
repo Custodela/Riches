@@ -20,6 +20,8 @@
 			<table cellpadding="0" cellspacing="0" border="0">
 				<tr valign="middle">
 					<td id="utilities" align="right"><a >Find Locations</a> | <a >Contact Us</a> | <a >Site Map</a>&nbsp;</td>
+					<td id="utilities" align="right"><a >Find Locations</a> | <a >Contact Us</a> | <a >Site Map</a>&nbsp;</td>
+					<td id="utilities" align="right"><a >Find Locations</a> | <a >Contact Us</a> | <a >Site Map</a>&nbsp;</td>
 					<td id="search" align="right" >
                         <form id="search" action="" method="get" >
 							<input type="text" size="28" maxlength="75" name="query" id="searchbox" title="Search" height="24" align="absmiddle" />
